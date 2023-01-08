@@ -1,0 +1,19 @@
+id: A549A00A4
+title: Brief Prayer of the Feast Gathering
+type: translation
+pechas:
+- I05E4CE2D
+- I25655E29
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:44:49.665224
+  last_modified_at: 2023-01-04 12:44:49.665245
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I05E4CE2D/F999: FA24
+  I25655E29/9137: FA24
